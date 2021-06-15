@@ -1,0 +1,2 @@
+* The 1e and 0νββ primaries were emitted isotropically (with the
+two 0νββ primaries emitted in opposite directions) according to the procedures described in (GITHUB CITATION) in batches of 100 events, --> 03_isoEmit
