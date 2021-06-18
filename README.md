@@ -26,6 +26,8 @@ for (var i = 0; i < 100; i++){
 
 # `g4_genb2b_100evts.txt`
 
+```
+
 // generates 100 2.457 MeV back-to-back events
 
 for (var i = 0; i < 100; i++){
@@ -44,3 +46,4 @@ for (var i = 0; i < 100; i++){
        gen.AddParticle(3, 1228.915,  0, 0, 0, vx1,vy1,vz1);              
        gen.AddParticle(3, 1228.915,  0, 0, 0, -vx1,-vy1,-vz1);
 }
+```
